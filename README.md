@@ -2,7 +2,7 @@
 
 ## Description
 
-<img src="https://raw.githubusercontent.com/lgzarturo/the-lone-coder/88b3c8594b74c7ef751ed822b41285827ed7d872/src/main/resources/META-INF/pluginIcon_dark.svg" width="256" align="right" alt="Icon the lone coder" />
+<img src="images/icon.png" width="256" align="right" alt="Icon the lone coder" />
 
 This theme is compatible with Visual Studio Code
 
