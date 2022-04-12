@@ -1,40 +1,50 @@
 {
-	"name": "the-lone-coder-vscode",
-	"displayName": "The Lone Coder",
-	"publisher": "lgzarturo",
-	"description": "Beautiful Dark Theme with Font Comic Style - This theme is for a night programmer",
-	"version": "0.0.2",
-	"author": {
-		"name": "ArturoLG"
-	},
-	"engines": {
-		"vscode": "^1.48.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"icon": "images/icon.png",
-	"galleryBanner": {
-		"color": "#1f1f1f",
-		"theme": "dark"
-	},
-	"license": "LICENSE",
-	"bugs": {
-		"url": "https://github.com/lgzarturo/the-lone-coder-vscode/issues",
-		"email": "lgzarturo@gmail.com"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/lgzarturo/the-lone-coder-vscode.git"
-	},
-	"homepage": "https://github.com/lgzarturo/the-lone-coder-vscode/blob/master/README.md",
-	"contributes": {
-		"themes": [
-			{
-				"label": "The Lone Coder",
-				"uiTheme": "vs-dark",
-				"path": "./themes/The Lone Coder-color-theme.json"
-			}
-		]
-	}
+  "name": "the-lone-coder-vscode",
+  "displayName": "The Lone Coder",
+  "publisher": "lgzarturo",
+  "description": "Beautiful Dark Theme with Font Comic Style - This theme is for a night programmer",
+  "version": "0.0.3",
+  "author": {
+    "name": "ArturoLG"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "lone coder",
+    "thelonecoder",
+    "lonecoder",
+    "the lone coder",
+    "theme dark",
+    "theme dark vscode"
+  ],
+  "engines": {
+    "vscode": "^1.48.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#1f1f1f",
+    "theme": "dark"
+  },
+  "license": "LICENSE",
+  "bugs": {
+    "url": "https://github.com/lgzarturo/the-lone-coder-vscode/issues",
+    "email": "lgzarturo@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lgzarturo/the-lone-coder-vscode.git"
+  },
+  "homepage": "https://github.com/lgzarturo/the-lone-coder-vscode/blob/master/README.md",
+  "contributes": {
+    "themes": [
+      {
+        "label": "The Lone Coder",
+        "uiTheme": "vs-dark",
+        "path": "./themes/The Lone Coder-color-theme.json"
+      }
+    ]
+  }
 }
